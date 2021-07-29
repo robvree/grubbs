@@ -8,7 +8,7 @@ export interface Options {
 }
 
 export interface Round {
-  dataset: Data[];
+  dataSet: Data[];
   stdev: number;
   average: number;
   criticalValue: number;
